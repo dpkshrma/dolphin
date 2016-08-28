@@ -1,0 +1,23 @@
+{
+  "name": "dolphin",
+  "version": "0.1.0",
+  "description": "Design your beats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpkshrma/dolphin.git"
+  },
+  "keywords": [
+    "music",
+    "beats"
+  ],
+  "author": "Deepak Sharma <dpkshrma01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpkshrma/dolphin/issues"
+  },
+  "homepage": "https://github.com/dpkshrma/dolphin#readme"
+}
